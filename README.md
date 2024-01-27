@@ -1,6 +1,6 @@
 ## Weather-App
 
-Make a simple weather app using html and javascript.
+Make a simple weather app using html and javascript. (https://gdsc-webdev.github.io/Weather-App/)
 
 Task 1: Fetching Weather Data
 // Write code to fetch weather data from an API. You can use a free weather API like OpenWeatherMap.
